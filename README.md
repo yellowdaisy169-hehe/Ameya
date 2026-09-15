@@ -1,22 +1,37 @@
-hi im Ameya
-CS student | bug bounty | CTF player | network modelling and security | linux and automations
+# Hi, I'm Ameya
 
-I'm a Computer Science student interested in cybersecurity, web application security, penetration testing, and security research.
+**CS Student | Bug Bounty | CTF Player | Network Modelling and Security | Linux and Automations**
+
+I'm a Computer Science student interested in **cybersecurity, web application security, penetration testing, and security research**.
+
 I learn by building projects, solving security labs, and documenting what I learn along the way.
 
-Web Application Security
-OWASP Top 10
-Burp Suite
-HTTP & Web Technologies
-Networking
-Linux
-Python for Security
-Penetration Testing
-Bug Bounty Methodology
+## Areas of Interest
 
-tools and tech 
-Python JavaScript SQL Bash
-Burp Suite Nmap Wireshark Metasploit
-Linux Windows Git
-PortSwigger Web Security Academy TryHackMe CTFs
+* Web Application Security
+* OWASP Top 10
+* Burp Suite
+* HTTP & Web Technologies
+* Networking
+* Linux
+* Python for Security
+* Penetration Testing
+* Bug Bounty Methodology
 
+## Tools and Technologies
+
+### Languages
+
+`Python` `JavaScript` `SQL` `Bash`
+
+### Security Tools
+
+`Burp Suite` `Nmap` `Wireshark` `Metasploit`
+
+### Systems and Development
+
+`Linux` `Windows` `Git`
+
+### Platforms
+
+`PortSwigger Web Security Academy` `TryHackMe` `CTFs`
