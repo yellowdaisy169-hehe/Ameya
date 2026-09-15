@@ -1,5 +1,6 @@
 hi im Ameya
 CS student | bug bounty | CTF player | network modelling and security | linux and automations
+
 I'm a Computer Science student interested in cybersecurity, web application security, penetration testing, and security research.
 I learn by building projects, solving security labs, and documenting what I learn along the way.
 
